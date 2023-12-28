@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Checkmates SL"
-  content: "Nextplate is a free starter template built with Next and TailwindCSS, providing everything you need to jumpstart your Next project and save valuable time."
+  content: "Checkmates SL is a non-profit organization dedicated to promoting and supporting the game of chess for the benefit of all. Our mission is to increase the awareness and appreciation of chess as a sport and intellectual activity, and to provide opportunities for individuals of all ages and backgrounds to learn, play, and compete."
   image: "/images/banner.png"
   button:
     enable: true
@@ -11,9 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Nextplate"
+  - title: "Vision"
     image: "/images/service-1.png"
-    content: "Nextplate is a comprehensive starter template that includes everything you need to get started with your Next project. What's Included in Nextplate"
+    content: "Our vision is to take Chess to the four corners of Sierra Leone, while creating a community where chess is widely recognized and appreciated as a valuable activity for personal growth, intellectual development, social connection, and also use chess as a tool to improve peoples lives. "
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"

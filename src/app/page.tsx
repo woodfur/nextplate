@@ -90,14 +90,14 @@ const Home = () => {
                   className="mb-8 text-lg"
                   dangerouslySetInnerHTML={markdownify(feature.content)}
                 />
-                <ul>
+                {/* <ul>
                   {feature.bulletpoints.map((bullet: string) => (
                     <li className="relative mb-4 pl-6" key={bullet}>
                       <FaCheck className={"absolute left-0 top-1.5"} />
                       <span dangerouslySetInnerHTML={markdownify(bullet)} />
                     </li>
                   ))}
-                </ul>
+                </ul> */}
                 {feature.button.enable && (
                   <Link
                     className="btn btn-primary mt-5"
@@ -112,7 +112,7 @@ const Home = () => {
         </section>
       ))}
 
-      <Testimonials data={testimonial} />
+      {/* <Testimonials data={testimonial} /> */}
       <CallToAction data={callToAction} />
     </>
   );
